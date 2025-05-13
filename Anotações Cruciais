@@ -1,0 +1,30 @@
+use delimitadores, uma recomendação é usar barras //, separe cada coisa com as barras
+exemplo, o que o que fazer//conteudo//especificações
+exemplo:
+Analise os dados e depois faça topicos     "intrução principal"
+//
+taxa 
+mulher 2                                    "conteúdo"
+homem 10
+criança 3
+//
+inclua informações sobre                    "informações adicionais"
+
+de exemplos de promots semelhentes
+exe:
+"slogan estilo nike
+tenis adidas
+futebos brasil"
+
+especificar publico
+
+Os dados do utilizador não são usados para treinar o modelo nem saem do ambiente seguro
+
+A imparcialidade na IA é essencial porque os modelos de linguagem são treinados com vastas quantidades de dados, 
+que podem conter vieses históricos, culturais ou sociais. Se a IA não for programada para minimizar esses vieses, 
+pode reproduzir informações distorcidas ou injustas, impactando negativamente a tomada de decisões ou perpetuando 
+desigualdades.
+
+As técnicas de prompting avançadas ajudam a guiar a IA para gerar respostas mais relevantes e detalhadas, 
+levando em consideração o contexto da pergunta e as necessidades do utilizador. Ao estruturar melhor as 
+instruções dadas à IA, é possível obter respostas mais coerentes, aprofundadas e alinhadas com o que se deseja.
